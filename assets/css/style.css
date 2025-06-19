@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+.bg_container{
+    background-image: url(../image/bgimg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.bg_container>.title>h1{
+    font-family: "Caveat";
+    text-align: center;
+    padding-top: 50px;
+    font-size: 100px;
+    color: white;
+}
+.container>.row>.col-lg-5>.card>.card-body{
+     font-family: "Playfair Display", serif;
+}
+#hide{
+    display: none;
+}
+
+
+#navfluid{
+    background-color:#4b5861;   
+}
+#navfluid>.navbar-brand{
+    font-family: "Caveat";
+    color: white;
+    text-align: center;
+}
+.collapse>#navicon>.nav-link{
+    color: white;
+}
+.collapse>#navicon>#shopicon>.nav-link>#carts{
+    color: white;
+}
+#addcontainer{
+    font-family: "Playfair Display", serif;
+}
+#searchcontainer{
+    font-family: "Playfair Display", serif;
+}
